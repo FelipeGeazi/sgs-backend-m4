@@ -11,7 +11,7 @@ Feito de paciente para médico.
 
 &nbsp;
 
-O SGS é uma aplicação cuja a funcionalidade consiste em integrar e agilizar o processo de consultas do historico de pacientes. 
+O SGS é uma aplicação cuja funcionalidade consiste em integrar e agilizar o processo de consultas do histórico de pacientes.
 
 
 &nbsp;
